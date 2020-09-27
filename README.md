@@ -4,3 +4,5 @@ This repo is an exhumation of an Amiga intro I coded in 2012, when I was learnin
 Not the most beautiful code nor design, but at that time I reached my goal : use the copper, the blitter, DMA, interrupts, replay a module...
 
 Works on ECS / KS 2.0 (not tried other configs). Assembled with AsmPro.
+
+[Here](https://www.youtube.com/watch?v=XryA9Y3lx78) you can see it on youtube (poor quality video, novsync)
